@@ -1,0 +1,2 @@
+# Referenced at C:\Users\markO\Desktop\Stream Radio 2 single\Stream Radio 2 single CR\Stream Radio 2\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:31
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

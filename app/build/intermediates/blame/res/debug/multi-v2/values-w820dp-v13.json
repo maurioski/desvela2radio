@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\markO\\Desktop\\Stream Radio 2 single\\Stream Radio 2 single CR\\Stream Radio 2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\markO\\Desktop\\Stream Radio 2 single\\Stream Radio 2 single CR\\Stream Radio 2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "10,9,6,4,5,3,2,8,7,1",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "472,428,274,164,220,115,59,381,333,16",
+                        "endColumns": "42,43,58,55,53,48,55,46,47,42",
+                        "endOffsets": "510,467,328,215,269,159,110,423,376,54"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,142,201,257,311,360,416,463,511",
+                        "endColumns": "42,43,58,55,53,48,55,46,47,42",
+                        "endOffsets": "93,137,196,252,306,355,411,458,506,549"
+                    }
+                }
+            ]
+        }
+    ]
+}
